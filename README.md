@@ -1,6 +1,7 @@
 # Heart-Disease-Prediction-using-Machine-Learning
 
-![Heart Disease](https://www.worldkidneyday.org/wp-content/uploads/2018/06/Cardiovascular-624x624.png)Heart disease is the leading cause of death and a major cause of disability in the United States. About 600,000 Americans die of heart disease annually. This represents almost 25% of all U.S. deaths. To raise awareness of this disease, February has been recognized as “American Heart Month” since 1963.
+Heart disease is the leading cause of death and a major cause of disability in the United States. About 600,000 Americans die of heart disease annually. This represents almost 25% of all U.S. deaths. To raise awareness of this disease, February has been recognized as “American Heart Month” since 1963.
+![Heart Disease](https://www.worldkidneyday.org/wp-content/uploads/2018/06/Cardiovascular-624x624.png)
 
 Some conditions, such as high cholesterol, high blood pressure, and diabetes, as well as lifestyle factors, such as unhealthy diet, obesity, physical inactivity, and alcohol and tobacco use, can put people at a higher risk for developing heart disease. A tendency toward heart disease can cluster in families; thus, family medical history offers important information for identifying risk in individuals. Such histories can capture the effects and interactions of shared genetic and environmental factors that lead to disease in a family.
 
