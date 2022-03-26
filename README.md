@@ -19,7 +19,7 @@ The Heart Disease prediction will have the following steps:
 
     - Support Vector Classifier
 
-Columns info
+## Columns info
 
 age --age in years
 
