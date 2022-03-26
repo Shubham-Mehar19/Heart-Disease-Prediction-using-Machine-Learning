@@ -1,4 +1,4 @@
-# Heart-Disease-Prediction-using-Machine-Learning
+# Heart Disease Prediction using Machine Learning
 
 Heart disease is the leading cause of death and a major cause of disability in the United States. About 600,000 Americans die of heart disease annually. This represents almost 25% of all U.S. deaths. To raise awareness of this disease, February has been recognized as “American Heart Month” since 1963.
 
